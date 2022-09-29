@@ -17,7 +17,7 @@ while True:
     except: 
         print("Valor no válido")
         continue
-print("Máximo", maximo)
+print("Máxiimo", maximo)
 print("Mínimo", minimo)
 
             
